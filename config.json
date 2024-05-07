@@ -1,0 +1,40 @@
+{
+    "anchor_to_edges": true,
+    "position": "right",
+    "icon_theme": "Papirus",
+    "margin.right": 40,
+    "margin.left": 40,
+    "height": 12,
+    "start": [
+      {
+        "type": "clock",
+        "format": "%I:%M"
+      },
+      {
+        "type": "tray",
+        "direction": "top_to_bottom"
+      }
+    ],
+    "center": [
+
+    ],
+    "end": [
+      {
+        "type": "launcher",
+        "favorites": [
+          "steam",
+          "discord",
+          "vivaldi",
+          "code",
+          "alacritty",
+          "freetube",
+          "easyeffects",
+          "lact"
+        ],
+        "reversed": true,
+        "show_names": false,
+        "show_icons": true,
+        "icon_size": 24
+      }
+    ]
+  }
